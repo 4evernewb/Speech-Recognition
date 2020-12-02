@@ -1,2 +1,2 @@
 # Speech-Recognition
-This is a repository linked to the project "Speech Recognition"
+This is a linked repository to the project named "Speech Recognition"
